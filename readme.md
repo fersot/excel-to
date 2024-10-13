@@ -65,7 +65,7 @@ $arrayData = ExcelTo::array('path/to/your/excel_file.xlsx');
 
 ## Requirements
 
-- PHP >= 8.2
+- PHP >= 8.1
 - Laravel >= 8.x
 - PhpSpreadsheet >= 1.20
 
