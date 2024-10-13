@@ -93,3 +93,9 @@ This package is open-source software licensed under the [MIT license](https://op
    - Explained the structure of the data returned by each method, emphasizing the handling of single vs. multiple sheets.
 
 Feel free to modify any section further if you have additional details or preferences for the README content.
+
+## Support Me ☕️
+
+Thanks for visiting my repository! If you like my work and want to support me in building more awesome projects, you can do so through [Buy Me a Coffee](https://buymeacoffee.com/fersot).
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FF813F?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/fersot)
