@@ -7,7 +7,7 @@ This Laravel package provides utilities for converting Excel files to JSON forma
 You can install the package via Composer:
 
 ```bash
-composer require fersot/excel-to-x
+composer require fersot/excel-to
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 {
-  "name": "fersot/excel-to-x",
+  "name": "fersot/excel-to",
   "description": "Laravel Package that converts excel to JSON/collection",
   "license": "MIT",
   "autoload": {
